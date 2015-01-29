@@ -1,4 +1,4 @@
 Python-Foundations
 ==================
 
-All my adventures with Python! Covers games, algorithms, project Euler, and such.
+All my adventures with Python! Covers games, algorithms and such.
